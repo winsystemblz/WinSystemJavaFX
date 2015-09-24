@@ -8,7 +8,7 @@
     <property name="hibernate.connection.username">root</property>
     <property name="hibernate.connection.password">123456</property>
     <property name="hibernate.hbm2ddl.auto">update</property>
-    <!-- <mapping class="clientes.Cliente" package="clientes"/> -->
+    <!-- <Este projeto foi Desenvolvido por Fábio Soares duvidas (67) 9223-0567> -->
     
     <mapping class="br.com.cliente.vo.ClientesVO"/>
   </session-factory>
